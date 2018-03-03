@@ -5,7 +5,7 @@ This Lab project was implemented to understand the large scale data (text) proce
 Few Notes on Instructions:
 -------------------------
 
-1. I have kept the all the sub folders of the 'output' folder empty. This is because the instructions below for different activities will generate the output in their respective folders. To view the sample output, please navigate to 'sample.output' folder.
+1. I have kept the all the sub folders of the 'output' folder empty. This is because the instructions below for different activities will generate the output in their respective folders.
 
 2. 'jars' are being already created in the respective folder. If you want to compile it again then follow the instructions below. The code for different activities also reside along with their jar files in the respective sub folders inside “jars”
 
