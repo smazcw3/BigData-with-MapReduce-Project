@@ -249,7 +249,6 @@ hdfs dfs -put ~/Lab4/input/Featured.Activity.2/part-b/ ~/input
 Make sure you copied them to the right place:
 hdfs dfs -ls ~/input
 
-
 Change the directory:
 cd ~/Lab4/jars/Featured.Activity.2/part-b
 
