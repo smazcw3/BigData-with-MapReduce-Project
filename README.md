@@ -13,7 +13,7 @@ Few Notes on Instructions:
 
 4. 'R.code' contains all the required code made in R for "getting tweets", "building word cloud" and "plots for featured.activity.2".
 
-5. The R code for generation of plots as well as the plots for "Featured.activity.2" is contained in “~/Lab4/output/Featured.Activity.2/Featured.Activity.2-plots”. Alternatively, It is also kept in “~/Lab4/R.Code/Featured.Activity.2.plots”.
+5. The R code for generation of plots as well as the plots for "Featured.activity.2" is contained in "~/Lab4/output/Featured.Activity.2/Featured.Activity.2-plots". Alternatively, It is also kept in "~/Lab4/R.Code/Featured.Activity.2.plots".
 
 6. Word Cloud is visualized and kept in “~/Lab4/R.Code/Building.Word.Cloud”. Inside “~/Lab4/R.Code/Building.Word.Cloud” you will find the R code for building word cloud, the output of WordCount on Tweets(part-r-00000) and a word cloud image.
 
